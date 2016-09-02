@@ -1,2 +1,0 @@
-# AliveORDead
-测试

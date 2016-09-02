@@ -1,6 +1,0 @@
-#测试表格				
-int	int	string	string	string
-id	age	name	des	icc
-1	21	随机的	谁说的看你打	蜀道难打卡
-2	24	是的	的粉丝们带你飞，	3 ad
-3	43	是否	按时打算	案说法
